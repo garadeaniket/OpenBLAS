@@ -226,3 +226,7 @@ In chronological order:
 
 * Dirreke <https://github.com/mseminatore>
   * [2024-01-16] Add basic support for the CSKY architecture
+ 
+* Aniket Garade <https://github.com/garadeaniket/OpenBLAS/> , Sushil Pratap Singh <sushilpratap@cdac.in> , Juliya James 
+  <juliyaj@cdac.in>
+  * [2024-07-08] SVE implementation for Level 1 and Level 2 BLAS routines  
